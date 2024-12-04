@@ -1,0 +1,2 @@
+this is a file from feature-2 branch
+this is a change from feature-2 edit1
